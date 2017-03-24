@@ -1,0 +1,12 @@
+{
+    "title": "Just an example subpage",
+    "list": [
+        "Some",
+        "List",
+        "Items"
+    ],
+    "copyright": {
+        "name": "Jane Doe",
+        "year": 2017
+    }
+}

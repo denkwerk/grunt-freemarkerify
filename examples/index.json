@@ -1,0 +1,12 @@
+{
+    "title": "Just an example page",
+    "list": [
+        "My",
+        "Super",
+        "List"
+    ],
+    "copyright": {
+        "name": "John Doe",
+        "year": 2017
+    }
+}
